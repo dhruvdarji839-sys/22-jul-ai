@@ -1,2 +1,3 @@
 version 5 in master branch
 version 5 of b1 branch
+version 6 of b1 branch
